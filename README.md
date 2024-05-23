@@ -7,6 +7,5 @@ https://www.linkedin.com/in/nicolas-cayetano-abraham-7b3a95287/
 https://soluciones-informaticas-nico-ventas-serv-tecnico.negocio.site/#details
 
 
-Nicolita525/Nicolita525 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
 --->
